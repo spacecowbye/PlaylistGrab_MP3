@@ -1,5 +1,3 @@
-Sure, here's a new README file for your project:
-
 # Spotify Playlist to YouTube Links Converter
 
 ## Description
